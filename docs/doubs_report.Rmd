@@ -6,5 +6,36 @@ output: html_document
 ---
 
 <!--- Consignes
+Ce document doit être une synthèse de votre carnet de notes.
+--->
 
+# Introduction
+
+<!--- Consignes
+L'introduction doit se baser sur l'état de l'art que vous avez réalisé durant la première phase de ce projet.
+Proposez une introduction de 10 à 15 lignes.
+--->
+
+# But
+
+<!--- Consignes
+Le but de ce projet vous est présenté dans le README. Reformulez le dans cette section.
+--->
+
+# Matériels et méthodes
+
+<!--- Consignes
+Le matériels et méthodes doit comprendre une première partie sur le lieu d'étude, les données collectées,... Ce première partie s'appuie sur le fichier `doubs_data.rmd`. Le M&M doit comprendre une seconde partie sur les outils utilisés pour réaliser ce projet.
+--->
+
+# Résultats & discussion
+
+<!--- Consignes
+Proposez entre 1 et 3 analyses multivariées les plus intéressantes et pertinentes. Ces analyses doivent se trouver dans le carnet de notes. Les analyses doivent être correctement décrites.
+--->
+
+# Conclusion
+
+<!--- Consignes
+Concluez ce projet en tenant compte du but de ce travail.
 --->

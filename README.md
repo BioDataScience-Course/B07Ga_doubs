@@ -26,9 +26,9 @@ Ce projet est complexe et comprend plusieurs documents que vous allez devoir com
 
 ### Phase de découverte
 
-Les données sont disponible dans une base données locale `doubs_db.sqlite` dans le dossier `/data`. Vous avez également à disposition dans le dossier `supp/` des informations sur le Doubs et des études réalisées. 
+Les données sont disponibles dans une base données locale `doubs_db.sqlite` dans le dossier `/data`. Vous avez également à disposition dans le dossier `supp/` des informations sur le Doubs et des études réalisées. 
 
-- Complétez le fichier `state_of_art.Rmd` en utilisant les ressources mises à votre disposition dans le dossier `supp/`.
+- Complétez le fichier `state_of_art.Rmd` en utilisant les ressources mises à votre disposition dans le dossier `supp/` (vous pouvez ajouter vos recherches personnelles)
 - Complétez le fichier `doubs_data.Rmd` afin d'explorer les données disponibles dans la base de données.
 
 En terminant cette phase, vous êtes expert de la problématique et des données mises à votre disposition.
