@@ -25,7 +25,7 @@ Le but de ce projet vous est présenté dans le README. Reformulez le dans cette
 # Matériels et méthodes
 
 <!--- Consignes
-Le matériels et méthodes doit comprendre une première partie sur le lieu d'étude, les données collectées,... Ce première partie s'appuie sur le fichier `doubs_data.rmd`. Le M&M doit comprendre une seconde partie sur les outils utilisés pour réaliser ce projet.
+Le matériel et méthodes doit comprendre une première partie sur le lieu d'étude, les données collectées,... Cette première partie s'appuie sur le fichier `doubs_data.rmd`. Le M&M doit comprendre une seconde partie sur les outils utilisés pour réaliser ce projet.
 --->
 
 # Résultats & discussion

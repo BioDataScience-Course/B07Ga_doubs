@@ -8,17 +8,19 @@ Ce projet nécessite de maîtriser les modules [5](https://wp.sciviews.org/sdd-u
 
 ## Objectifs
 
-Ce projet est **libre** et de **groupe**. Il doit être terminé pour la fin du cours de SDD II. Ce dernier permettra de démontrer que vous avez acquis les compétences suivantes :
+Ce projet est **libre** et en **groupe**. Il doit être terminé pour la fin du cours de SDD II. Ce dernier permettra de démontrer que vous avez acquis les compétences suivantes :
 
 - être capable de se partager le travail entre les membres du groupe. Chaque membre du groupe doit travailler avec la même implication.
 
 - être capable d'utiliser et de décrire correctement les méthodes d'ordination (représentation sur des cartes) et de classification (regroupement des individus). 
 
+- être capable de sélectionner les méthodes d'ordination et de classification les plus pertinentes en fonction de la problématique étudiée
+
 - être capable de synthétiser un carnet de notes en un rapport de synthèse.
 
-Le long du Doubs 30 stations ont été étudiées. Des mesures environnementales et des collectes des poissons ont été réalisée sur chaque station. Votre objectif est d'utiliser les méthodes d'ordination et de classification afin de mettre en évidence plusieurs micro-habitats différents qui peuvent exister tout au long de la rivière. Une variation progressive d'une station à l'autre est également possible le long du cours d'eau.
-
 ## Consignes
+
+Le long du Doubs 30 stations ont été étudiées. Des mesures environnementales et des collectes des poissons ont été réalisée sur chaque station. Votre objectif est d'utiliser les méthodes d'ordination et de classification afin de mettre en évidence plusieurs micro-habitats différents qui peuvent exister tout au long de la rivière. Une variation progressive d'une station à l'autre est également possible le long du cours d'eau.
 
 Ce projet est complexe et comprend plusieurs documents que vous allez devoir compléter. Vous allez devoir judicieusement vous partager le travail. Ce projet va se décomposer en 3 phases.
 

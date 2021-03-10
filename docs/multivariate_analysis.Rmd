@@ -6,5 +6,5 @@ output: html_document
 ---
 
 <!--- Consignes
-Dans ce carnet de notes, vous devez expérimenter les différentes méthodes d'analyses multivariées vues dans le cadre de ce cours. Ce notebook doit comprendre des classifications hiérarchique ascendantes, des k-moyennes, des positionnements multidimensionnels, des cartes auto-adaptatives, des analyses en composantes principales, des analyses factorielles des correspondances et  des analyses factorielle multiples. Chaque analyse doit être correctement décrites. Essayez de croiser des méthodes comme par exemple l'utilisation d'une CAH (méthode de regroupement) avec une ACP (méthode d'ordination).
+Dans ce carnet de notes, vous devez expérimenter les différentes méthodes d'analyse multivariées vues dans le cadre de ce cours. Ce notebook doit comprendre des classifications hiérarchiques ascendantes, des k-moyennes, des positionnements multidimensionnels, des cartes auto-adaptatives, des analyses en composantes principales, des analyses factorielles des correspondances et des analyses factorielle multiples. Chaque analyse doit être correctement décrites. Essayez de croiser des méthodes comme par exemple l'utilisation d'une CAH (méthode de regroupement) avec une ACP (méthode d'ordination).
 --->

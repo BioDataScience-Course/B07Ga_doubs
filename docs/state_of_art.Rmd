@@ -6,5 +6,5 @@ output: html_document
 ---
 
 <!--- Consignes
-Avant de pouvoir traiter efficacement la problématique de ce projet, vous devez avoir une connaissance de la problématique. Utilisez donc les documents mis à votre disposition afin de découvrir le Doubs et les études liés à ce cours d'eau. Réalisez une document de 1 page (maximum 2) qui présente le Doubs. Consultez les données présentes dans la base de données afin d'orienter votre réflexion.
+Avant de pouvoir traiter efficacement la problématique de ce projet, vous devez avoir une connaissance de la problématique. Utilisez donc les documents mis à votre disposition afin de découvrir le Doubs et les études liés à ce cours d'eau. Réalisez un document de 1 page (maximum 2) qui présente le Doubs. Consultez les données présentes dans la base de données afin d'orienter votre réflexion.
 --->
