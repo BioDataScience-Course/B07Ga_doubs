@@ -1,0 +1,20 @@
+---
+title: "___"
+author: "___"
+date: "___"
+output: html_document
+---
+
+<!--% Avant toute chose, récupérez le code du cours nécessaire, placez-le dans un script R dans le sous-dossier `R/` et sourcez-le dans le chunk de setup -->
+
+<!--# Laissez les zones de code visibles dans la page HTML. Donc, n'utilisez *pas* l'argument `echo=FALSE` dans les chunks ! -->
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+SciViews::R
+source(___)
+```
+
+<!--% Ce fichier doit permettre de comprendre les différentes table de la base de données. Vous devez présenter et résumer (de manière numérique dans des tableaux de synthèse et/ou graphique) les tables, et les variables à disposition. Préciser également s'il y a des valeurs manquantes, ainsi que le type de données (quantitatives continues ou discrètes, qualitatives ordonnées ou non = variables "facteurs)". -->
+
+<!--# Au niveau de la répartition du travail, chaque étudiant doit contribuer 1 à 2 graphique ou tableau de synthèse. -->
