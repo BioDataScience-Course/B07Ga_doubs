@@ -5,21 +5,16 @@ date: "___"
 output: html_document
 ---
 
-<!--% Avant toute chose, récupérez le code du cours nécessaire, placez-le dans un script R dans le sous-dossier `R/` et sourcez-le dans le chunk de setup -->
-
-<!--# Laissez les zones de code visibles dans la page HTML. Donc, n'utilisez *pas* l'argument `echo=FALSE` dans les chunks ! -->
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-SciViews::R
-source(___)
+SciViews::R(___)
 ```
 
 <!--% Dans ce carnet de notes, vous devez expérimenter les différentes méthodes d'analyse multivariées vues dans le cours. Conservez la structure proposée et répartissez-vous le travail de manière équitable en fonction des consignes. -->
 
 # Regroupements
 
-<!--% Chaque étudiant proposera une analyse cah qu'il considère pertinente et il l’interprétera en 3 à 5 phrases juste en dessous du dendrogramme. -->
+<!--% Choisissez deux analyses cah les plus pertinentes (deux étudiants). Chacun interprétera en 3 à 5 phrases juste en dessous du dendrogramme l'analyse qu'il a insérée. -->
 
 ```{r cah1}
 
@@ -27,68 +22,17 @@ source(___)
 
 <!--% Interprétation de cah1 ci-dessous. -->
 
-
 ```{r cah2}
 
 ```
 
 <!--% Interprétation de cah2 ci-dessous. -->
 
-
-```{r cah3}
-
-```
-
-<!--% Interprétation de cah3 ci-dessous. -->
-
-
-```{r cah4}
-
-```
-
-<!--% Interprétation de cah4 ci-dessous. -->
-
-
-<!--% Réalisez ensuite un regroupement par k-moyennes et interprétez-le (un étudiant). -->
-
-```{r kmeans}
-
-```
-
-<!--% Interprétation des k-moyennes ci-dessous. -->
-
-
-<!--% Retenez le regroupement ou les deux regroupements qui vous paraîssent les meilleurs et ajoutez-les comme variables supplémentaires `group1` (et éventuellement `group2`) dans votre jeu de données. -->
+<!--% Retenez le regroupement qui vous paraît le meilleur et ajoutez-le comme variable supplémentaire `group` dans votre jeu de données. -->
 
 ```{r groups}
 
 ```
-
-
-# Carte auto-adaptatives
-
-<!--% Étudiez vos données via la méthode SOM (un ou deux étudiants), réalisez les graphiques pertinents. -->
-
-```{r som}
-
-```
-
-```{r som_plot1}
-
-```
-
-<!--% Interprétation du graphique som_plot1 en 3 à 5 phrases. -->
-
-
-```{r som_plot2}
-
-```
-
-<!--% Interprétation du graphique som_plot1 en 3 à 5 phrases. -->
-
-
-<!--% Ajoutez d'autres graphiques si nécessaire et interprétez-les ci-dessous. -->
-
 
 # Ordination
 
@@ -107,13 +51,11 @@ summary(___)
 
 <!--% Interprétez le résumé de votre analyse et le graphique des éboulis en 3 à 5 phrases ci-dessous. -->
 
-
 ```{r acp_afc1_plot1}
 
 ```
 
 <!--% Interprétation du graphique acp_afc1_plot1 en 3 à 5 phrases. -->
-
 
 ```{r acp_afc1_plot2}
 
@@ -121,9 +63,7 @@ summary(___)
 
 <!--% Interprétation du graphique acp_afc1_plot2 en 3 à 5 phrases. -->
 
-
 <!--% Ajoutez d'autres graphiques si nécessaire et interprétez-les ci-dessous. -->
-
 
 ## Ordination 2
 
@@ -138,13 +78,11 @@ summary(___)
 
 <!--% Interprétez le résumé de votre analyse et le graphique des éboulis en 3 à 5 phrases ci-dessous. -->
 
-
 ```{r acp_afc2_plot1}
 
 ```
 
 <!--% Interprétation du graphique acp_afc2_plot1 en 3 à 5 phrases. -->
-
 
 ```{r acp_afc2_plot2}
 
@@ -152,16 +90,13 @@ summary(___)
 
 <!--% Interprétation du graphique acp_afc2_plot2 en 3 à 5 phrases. -->
 
-
 <!--% Ajoutez d'autres graphiques si nécessaire et interprétez-les ci-dessous. -->
 
-
-<!--# Ceci conclut la partie I. -->
-
+<!--# Ceci conclut la partie I (module 7). -->
 
 ## Analyse multi-tableaux
 
-<!--% Partie II: Effectuez une analyse globale multi-tableaux (AFM) sur vos données. Réalisez au moins deux graphiques les plus pertinents et interprétez-les (travail à répartir entre 2 et 3 étudiants qui ont moins contribué à la partie I). -->
+<!--% Partie II (module 8) : Effectuez une analyse globale multi-tableaux (AFM) sur vos données. Réalisez au moins deux graphiques les plus pertinents et interprétez-les (travail à répartir entre 2 et 3 étudiants qui ont moins contribué à la partie I). -->
 
 ```{r afm}
 
@@ -173,13 +108,10 @@ summary(___)
 
 <!--% Interprétation du graphique afm_plot2 en 3 à 5 phrases. -->
 
-
 ```{r afm_plot2}
 
 ```
 
 <!--% Interprétation du graphique afm_plot2 en 3 à 5 phrases. -->
 
-
 <!--% Ajoutez d'autres graphiques si nécessaire et interprétez-les ci-dessous. -->
-

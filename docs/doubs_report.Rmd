@@ -5,55 +5,44 @@ date: "___"
 output: html_document
 ---
 
-<!--% Avant toute chose, récupérez le code du cours nécessaire, placez-le dans un script R dans le sous-dossier `R/` et sourcez-le dans le chunk de setup -->
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-SciViews::R
-source(___)
+SciViews::R(___)
 ```
 
 <!---% Ce document doit être une synthèse de votre carnet de notes. Laissez les zones de code visibles dans la page HTML. Donc, n'utilisez *pas* l'argument `echo=FALSE` dans les chunks ! -->
 
-
 # Introduction
 
-<!--% L'introduction doit se baser sur l'état de l'art que vous avez réalisé durant la première phase de ce projet. Proposez une introduction de 4 à 7 paragraphes. -->
-
+<!--% L'introduction doit se baser sur l'état de l'art que vous avez réalisé durant la première phase de ce projet. Rédigez une introduction de 4 à 7 paragraphes. -->
 
 # But
 
-<!--% Le but de ce projet vous est présenté dans le `README.md`. Reformulez-le dans cette section en une ou deux phrases. -->
-
+<!--% Explicitez le but de l'étude dans cette section en une ou deux phrases. -->
 
 # Matériel et méthodes
 
-<!--% La section matériel et méthodes doit comprendre une première partie qui présente le lieu d'étude, la façon dont les données ont été collectées,... Cette première partie est à rédiger en s'appuyant sur le fichier `docs/doubs_notes_data.rmd`. Une seconde partie présentera les outils statistiques et logiciels utilisés (pensez à citer vos logiciels complètement, c'est à dire leur nom et leur numéro de version). -->
-
+<!--% La section matériel et méthodes doit comprendre une première partie qui présente le lieu d'étude, la façon dont les données ont été collectées,... Cette première partie est à rédiger en s'appuyant sur le fichier `docs/doubs_notes_data.rmd`. Une seconde partie présentera les outils statistiques et logiciels utilisés (pensez à citer vos logiciels complètement, c'est-à-dire leur nom et leur numéro de version). -->
 
 # Résultats
 
-<!--% Proposez quatre analyses multivariées issues de votre bloc notes `docs/doubs_notes_analysis.Rmd` (une par étudiant). Vous devez sélectionner celles qui vous paraissent les plus pertinentes dans le contexte de votre étude. L'interprétation de ces quatre analyses fera ici l'objet d'un remaniement du texte pour former une section résultats qui se lit de manière fluide et continue. -->
+<!--% Présentez ici quatre analyses multivariées issues de votre bloc-notes `docs/doubs_notes_analysis.Rmd` (une par étudiant). Vous devez sélectionner celles qui vous paraissent les plus pertinentes dans le contexte de votre étude. L'interprétation de ces quatre analyses fera ici l'objet d'un remaniement du texte pour former une section résultats qui se lit de manière fluide et continue. -->
 
 ## Analyse 1
 
-<!--% Code nécessaire pour générer l'analyse indépendamment des autres documents + interprétation et justification du choix et 5 à 7 phrases (étudiant 1 - ne modifiez pas le titre !). -->
-
+<!--% Code nécessaire pour générer l'analyse indépendamment des autres documents + interprétation et justification du choix en 3 à 5 phrases (étudiant 1 - ne modifiez pas le titre !). -->
 
 ## Analyse 2
 
-<!--% Code nécessaire pour générer l'analyse indépendamment des autres documents + interprétation et justification du choix et 5 à 7 phrases (étudiant 2 - ne modifiez pas le titre !). -->
-
+<!--% Code nécessaire pour générer l'analyse indépendamment des autres documents + interprétation et justification du choix en 3 à 5 phrases (étudiant 2 - ne modifiez pas le titre !). -->
 
 ## Analyse 3
 
-<!--% Code nécessaire pour générer l'analyse indépendamment des autres documents + interprétation et justification du choix et 5 à 7 phrases (étudiant 3 - ne modifiez pas le titre !). -->
-
+<!--% Code nécessaire pour générer l'analyse indépendamment des autres documents + interprétation et justification du choix en 3 à 5 phrases (étudiant 3 - ne modifiez pas le titre !). -->
 
 ## Analyse 4
 
-<!--% Code nécessaire pour générer l'analyse indépendamment des autres documents + interprétation et justification du choix et 5 à 7 phrases (étudiant 4 - ne modifiez pas le titre !). -->
-
+<!--% Code nécessaire pour générer l'analyse indépendamment des autres documents + interprétation et justification du choix en 3 à 5 phrases (étudiant 4 - ne modifiez pas le titre !). -->
 
 # Discussion et conclusion
 
