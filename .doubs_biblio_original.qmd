@@ -1,0 +1,20 @@
+---
+title: "___"
+author: "___, ___, ___, ___"
+format:
+  html:
+    code-fold: true
+    code-tools: true
+    toc: true
+editor: visual
+lang: fr
+bibliography: bibliography/references.bib
+---
+
+# Résumé bibliographique
+
+<!--% Avant de pouvoir traiter efficacement vos données, vous devez comprendre le contexte et cerner la question posée. Utilisez les documents mis à votre disposition dans le sous-dossier `bibliography` pour découvrir le Doubs et les études qui ont été réalisées sur ce cours d'eau dans les années 1970-2000. Résumez vos observations en une dizaine de paragraphes au maximum (qu'est-ce que le Doubs, ses caractéristiques physiques, chimiques et ses communautés de poissons, ainsi que les problèmes de pollution). Consultez également les données fournies pour orienter votre réflexion. -->
+
+# Références
+
+<!--% N'indiquez rien ci-dessous. Vos références bibliographiques y seront insérées (vous devez les citer avec le balisage Markdown adéquat dans le texte ci-dessus pour cela). -->
