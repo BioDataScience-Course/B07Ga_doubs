@@ -1,0 +1,59 @@
+---
+title: "___"
+author: "___, ___, ___, ___"
+format:
+  html:
+    code-fold: true
+    code-tools: true
+    toc: true
+editor: visual
+lang: fr
+bibliography: bibliography/references.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+SciViews::R(___)
+```
+
+<!---% Ce document doit être une synthèse de votre carnet de notes. Il ne peut y faire référence et doit être compréhensible tel quel. -->
+
+# Introduction
+
+<!--% Votre introduction va se baser sur le résumé bibliographique que vous avez réalisé dans `doubs_biblio.qmd` durant la première phase de ce projet, mais il ne peut pas en être un copier-coller. Rédigez une introduction de trois à cinq paragraphes qui introduit votre étude et ne reprend que de ce qui est pertinent ici. -->
+
+# But
+
+<!--% Explicitez le but de l'étude dans cette section en une ou deux phrases. -->
+
+# Matériel et méthodes
+
+<!--% La section matériel et méthodes doit comprendre une première partie qui présente le lieu d'étude et la façon dont les données ont été collectées (appuyez-vous sur la bibliographique mise à disposition). Une seconde partie présentera les outils statistiques et logiciels utilisés (pensez à citer vos logiciels complètement, c'est-à-dire leur nom et leur numéro de version). Attention : R et RStudio sont deux logiciels différents. Les calculs sont réalisés dans R. -->
+
+# Résultats
+
+<!--% Présentez ici quatre analyses multivariées issues de votre bloc-notes `doubs_notebook.qmd` (une par étudiant). Vous devez sélectionner celles qui vous paraissent les plus pertinentes dans le contexte de votre étude. L'interprétation de ces quatre analyses fera ici l'objet d'un remaniement du texte pour former une section résultats qui se lit de manière fluide et continue. -->
+
+## Analyse 1
+
+<!--% Code nécessaire pour générer l'analyse indépendamment des autres documents + interprétation et justification du choix en 3 à 5 phrases (étudiant 1 - ne modifiez pas le titre !). -->
+
+## Analyse 2
+
+<!--% Code nécessaire pour générer l'analyse indépendamment des autres documents + interprétation et justification du choix en 3 à 5 phrases (étudiant 2 - ne modifiez pas le titre !). -->
+
+## Analyse 3
+
+<!--% Code nécessaire pour générer l'analyse indépendamment des autres documents + interprétation et justification du choix en 3 à 5 phrases (étudiant 3 - ne modifiez pas le titre !). -->
+
+## Analyse 4
+
+<!--% Code nécessaire pour générer l'analyse indépendamment des autres documents + interprétation et justification du choix en 3 à 5 phrases (étudiant 4 - ne modifiez pas le titre !). -->
+
+# Discussion et conclusions
+
+<!--% Discutez vos résultats et remettez-les dans le contexte de la bibliographie. Concluez enfin ce projet en répondant à la question posée dans le but du travail et en montrant les progrès réalisés ou non depuis pour maîtriser les pollutions et les déchets dans la rivière (vous pouvez ici citer de nouvelles références bibliographiques, voyez par exemple ici: https://www.estrepublicain.fr/environnement/2021/05/11/pollution-et-poissons-morts-le-comte-tue-nos-rivieres ; cette référence est déjà encodée dans le fichier `bibliography/references.bib`). Cette section ne peut pas dépasser 5 ou 6 paragraphes : restez concis. -->
+
+# Références
+
+<!--% N'indiquez rien ci-dessous. Vos références bibliographiques y seront insérées (vous devez les citer avec le balisage Markdown adéquat dans le texte ci-dessus pour cela). -->

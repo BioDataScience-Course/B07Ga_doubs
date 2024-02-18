@@ -1,14 +1,24 @@
 ---
 title: "___"
-author: "___"
-date: "___"
-output: html_document
+author: "___, ___, ___, ___"
+format:
+  html:
+    code-fold: true
+    code-tools: true
+    toc: true
+editor: visual
+lang: fr
+bibliography: bibliography/references.bib
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 SciViews::R(___)
 ```
+
+<!--% Ce fichier doit permettre de comprendre les différentes tables de la base de données. Vous devez présenter et résumer (de manière numérique dans des tableaux de synthèse et/ou graphique) les tables, et les variables à disposition. Préciser également s'il y a des valeurs manquantes, ainsi que le type de données (quantitatives continues ou discrètes, qualitatives ordonnées ou non = variables "facteurs)". -->
+
+<!--# Au niveau de la répartition du travail, chaque étudiant doit contribuer 1 à 2 graphique ou tableau de synthèse. -->
 
 <!--% Dans ce carnet de notes, vous devez expérimenter les différentes méthodes d'analyse multivariées vues dans le cours. Conservez la structure proposée et répartissez-vous le travail de manière équitable en fonction des consignes. -->
 
@@ -94,7 +104,7 @@ summary(___)
 
 <!--# Ceci conclut la partie I (module 7). -->
 
-## Analyse multi-tableaux
+# Analyse multi-tableaux
 
 <!--% Partie II (module 8) : Effectuez une analyse globale multi-tableaux (AFM) sur vos données. Réalisez au moins deux graphiques les plus pertinents et interprétez-les (travail à répartir entre 2 et 3 étudiants qui ont moins contribué à la partie I). -->
 
