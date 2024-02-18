@@ -29,7 +29,7 @@ figure-html/
 *.tex
 *.log
 *.aux
-*.pdf
+/*.pdf
 *.docx
 *.doc
 *.pptx
@@ -51,10 +51,14 @@ tests/results/
 
 # Key
 tests/.key
+tests/.cnt
 
 # Knitr cache
 *_cache/
 /cache/
+
+# Cache des données
+data/data_cache/
 
 # Package build files
 *-Ex.R
@@ -69,6 +73,7 @@ vignettes/*.pdf
 # System files and others
 www/.vscode/
 .DS_Store
+._*
 .Thumbs.db
 Thumbs.db
 core.*
