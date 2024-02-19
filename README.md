@@ -20,7 +20,7 @@ Ce projet nécessite de maîtriser les modules 6 et 7 du cours de [Science des d
 
 Trente stations ont été étudiées le long du Doubs. Des mesures environnementales et des collectes de poissons ont été réalisées en chaque station. Votre objectif est d'utiliser les méthodes d'ordination et de classification afin de mettre en évidence plusieurs micro-habitats différents qui peuvent exister tout au long de cette rivière. Gardez aussi à l'esprit qu'une variation *progressive* d'une station à l'autre est également possible au fil de l'eau.
 
-Dans ce projet est vous devrez compléter successivement plusieurs documents en vous partageant équitablement le travail. Vous le compléterez en trois phases.
+Dans ce projet, vous devrez compléter successivement plusieurs documents en vous partageant équitablement le travail. Vous le compléterez en trois phases.
 
 ### Phase de découverte
 
@@ -34,7 +34,7 @@ La seconde phase va vous permettre de rechercher des pistes grâce aux analyses 
 
 **Remarque :** veuillez conserver les noms et la structure de chaque fichier (ne créez pas un fichier différent pour chaque étudiant, par exemple). Vous devez être capable de vous répartir le travail, de réaliser vos différents commits et de gérer les conflits éventuels dans GitHub en travaillant dans les *mêmes fichiers* ! Assurez-vous à la fin que vous pouvez compiler les versions HTML de ces documents (bouton "Rendu") sans erreurs, sinon, corrigez-les avant soumission finale.
 
-Tout le monde est responsable du contenu du projet dans sa globalité. Même si vous vous répartissez le travail, relisez les contributions des autres et obtenez un consensus entre vous. Si un graphique ou une analyse est mauvaise, ce n'est pas juste l'étudiant qui l'a réalisé qui en est responsable, mais le groupe tout entier ! Si un étudiant contribue peu ou pas du tout au projet, par contre, nous le verrons dans l'historique des commits et il sera pénalisé proportionnellement, sans que cela n'impacte la note des autres, à condition que le travail soit réalisé complètement.
+Chaque membre du groupe est responsable de l’intégralité du contenu du projet. Même si le travail est réparti, il est essentiel de relire les contributions des autres et d’arriver à un consensus. Si un graphique ou une analyse est incorrect, la responsabilité ne repose pas uniquement sur l’étudiant qui l’a réalisé, mais sur l’ensemble du groupe ! Si un étudiant contribue peu ou pas du tout au projet, nous le remarquerons dans l’historique des commits et il sera pénalisé proportionnellement. Cela n’affectera pas la note des autres, à condition que le travail soit entièrement réalisé.
 
 Notez bien qu'en situation réelle cette phase exploratoire mène à des informations utiles qui vont motiver l'approfondissement de votre étude en mettant en œuvre des tests d'hypothèses ou de la modélisation. Ce sont toutes les techniques que vous avez apprises au cours SDD I et dans la première partie du cours SDD II. En principe, ces travaux complémentaires doivent faire l'objet de collecte de données indépendantes du premier jeu de données qui a servi à l'exploration, selon le principe que *des données qui ont déjà servi (dans la phase exploratoire) ne peuvent pas être réutilisées (pour la modélisation ou les tests d'hypothèses)*. Dans le cadre de cet exercice, vous vous limitez à la phase exploratoire, tout en étant bien conscients qu'en principe, le travail du scientifique des données ne s'arrête pas là !
 

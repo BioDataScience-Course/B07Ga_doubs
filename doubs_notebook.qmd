@@ -22,11 +22,11 @@ SciViews::R(___, lang = "fr")
 
 # Introduction et but
 
-(voir [résumé biblio](boubs_biblio.html)).
+(voir [résumé biblio](doubs_biblio.html)).
 
 # Matériel et méthodes
 
-(voir [rapport](doubls_report.html))
+(voir [rapport](doubs_report.html))
 
 # Analyses
 
@@ -34,9 +34,9 @@ SciViews::R(___, lang = "fr")
 
 ## Description des données
 
-<!--% Cette partie doit permettre de comprendre les différentes jeux de données que vous traitez. Vous devez présenter et résumer (de manière numérique dans des tableaux de synthèse et/ou graphique) les tables, et les variables à disposition. Préciser également s'il y a des valeurs manquantes, ainsi que le type de données (quantitatives continues ou discrètes, qualitatives ordonnées ou non = variables "facteurs)". Si c'est pertinent, vérifiez la rleation entre les variables et transformez-les si nécessaire. -->
+<!--% Cette partie doit permettre de comprendre les différents jeux de données que vous traitez. Vous devez présenter et résumer (de manière numérique dans des tableaux de synthèse et/ou graphique) les tables, et les variables à disposition. Préciser également s'il y a des valeurs manquantes, ainsi que le type de données (quantitatives continues ou discrètes, qualitatives ordonnées ou non = variables "facteurs)". Si c'est pertinent, vérifiez la relation entre les variables et transformez-les si nécessaire. -->
 
-<!--# Au niveau de la répartition du travail, chaque étudiant doit contribuer 1 à 2 graphique ou tableau de synthèse. -->
+<!--# Au niveau de la répartition du travail, chaque étudiant doit contribuer à un ou deux graphiques ou tableaux de synthèse. -->
 
 ## Regroupement
 
@@ -48,7 +48,7 @@ SciViews::R(___, lang = "fr")
 
 ```
 
-<!--% Interprétation de cah1 ci-dessous. -->
+<!--% Interprétez la cah1 ci-dessous. -->
 
 ### CAH 2
 
@@ -56,7 +56,7 @@ SciViews::R(___, lang = "fr")
 
 ```
 
-<!--% Interprétation de cah2 ci-dessous. -->
+<!--% Interprétez la cah2 ci-dessous. -->
 
 ### Choix CAH
 
@@ -87,13 +87,13 @@ summary(___)
 
 ```
 
-<!--% Interprétation du graphique acp_afc1_plot1 en 3 à 5 phrases. -->
+<!--% Interprétez le graphique acp_afc1_plot1 en 3 à 5 phrases. -->
 
 ```{r acp_afc1_plot2}
 
 ```
 
-<!--% Interprétation du graphique acp_afc1_plot2 en 3 à 5 phrases. -->
+<!--% Interprétez le graphique acp_afc1_plot2 en 3 à 5 phrases. -->
 
 <!--% Ajoutez d'autres graphiques si nécessaire et interprétez-les ci-dessous. -->
 
@@ -114,21 +114,21 @@ summary(___)
 
 ```
 
-<!--% Interprétation du graphique acp_afc2_plot1 en 3 à 5 phrases. -->
+<!--% Interprétez le graphique acp_afc2_plot1 en 3 à 5 phrases. -->
 
 ```{r acp_afc2_plot2}
 
 ```
 
-<!--% Interprétation du graphique acp_afc2_plot2 en 3 à 5 phrases. -->
+<!--% Interprétez le graphique acp_afc2_plot2 en 3 à 5 phrases. -->
 
 <!--% Ajoutez d'autres graphiques si nécessaire et interprétez-les ci-dessous. -->
 
 <!--# Vous devez arriver jusqu'ici à la fin du module 7. -->
 
-## Analyse multi-tableaux
+## Analyse multitableaux
 
-<!--% Partie II (module 8) : Effectuez une analyse globale multi-tableaux (AFM) sur vos données. Réalisez au moins deux graphiques les plus pertinents et interprétez-les (travail à répartir entre 2 et 3 étudiants qui ont moins contribué à la partie I). -->
+<!--% Partie II (module 8) : Effectuez une analyse globale multitableaux (AFM) sur vos données. Réalisez au moins deux graphiques les plus pertinents et interprétez-les (travail à répartir entre 2 et 3 étudiants qui ont moins contribué à la partie I). -->
 
 ```{r afm}
 
@@ -138,16 +138,16 @@ summary(___)
 
 ```
 
-<!--% Interprétation du graphique afm_plot2 en 3 à 5 phrases. -->
+<!--% Interprétez le graphique afm_plot2 en 3 à 5 phrases. -->
 
 ```{r afm_plot2}
 
 ```
 
-<!--% Interprétation du graphique afm_plot2 en 3 à 5 phrases. -->
+<!--% Interprétez le graphique afm_plot2 en 3 à 5 phrases. -->
 
 <!--% Ajoutez d'autres graphiques si nécessaire et interprétez-les ci-dessous. -->
 
 # Discussion et conclusions
 
-<!--% Éléments principaux que vous retenez de votre analyse, souf forme de liste à points concise. -->
+<!--% Listez les éléments principaux que vous retenez de votre analyse, sous forme de liste à points concise. -->
